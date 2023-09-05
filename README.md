@@ -43,7 +43,6 @@ cd prueba-tecnica
 ```
 4. Inicia la aplicación:
 ```sh
- npm run serve
  npm run dev
 ```
 5. Abre tu navegador web y accede a la dirección: `http://localhost:5173`.
