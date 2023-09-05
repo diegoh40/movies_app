@@ -61,9 +61,9 @@ cd prueba-tecnica
 
 ## Screenshots
 
-<img src="/src/assets/screenshots/page1.png" alt="Desk" width="600">
-<img src="/src/assets/screenshots/page2.png" alt="modal" width="600">
-<img src="/src/assets/screenshots/pageMobil.png" alt="Mobil" width="600">
+<img src="/src/assets/page1.png" alt="Desk" width="600">
+<img src="/src/assets/page2.png" alt="modal" width="600">
+<img src="/src/assets/pageMobil.png" alt="Mobil" width="600">
 
 
 ## Contribuciones
