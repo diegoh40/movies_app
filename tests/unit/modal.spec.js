@@ -19,8 +19,7 @@ describe('MovieModal.vue', () => {
         closeModal: () => { },
       },
     })
+    expect(wrapper.find('h3').text()).toBe('SAMPLE MOVIE')
   })
 })
 
-
-expect(wrapper.find('h3').text()).toBe('SAMPLE MOVIE')
