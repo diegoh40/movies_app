@@ -19,7 +19,7 @@ Esta es una aplicación de películas que cumple con las siguientes característ
 
 ```bash
 npm install
-npm run serve
+npm run dev
 ```
 
 ## Tecnologías Utilizadas
